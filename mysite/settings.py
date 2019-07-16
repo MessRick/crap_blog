@@ -25,7 +25,7 @@ SECRET_KEY = 'pn#$3wg@my+cby#blnpvd(by)2g_==-q=tbi^qi9v3bd5d$wf='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'arsen.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'nesy.pythonanywhere.com']
 
 
 # Application definition
